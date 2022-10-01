@@ -1,5 +1,6 @@
 {
   "name": "Test Package",
   "version": 1,
-  "id": "testpkg"
+  "id": "testpkg",
+  "source": "RaveSoftwareFoundation/test-package"
 }
